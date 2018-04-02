@@ -1,11 +1,11 @@
 # ceng_783
 
-'
-sudo pip install tensorflow-gpu
-sudo pip install keras
-sudo pip install Cython
-sudo pip install git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
-'
+## Installation
+1. sudo pip install tensorflow-gpu
+2. sudo pip install keras
+3. sudo pip install Cython
+4. sudo pip install git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
+
 #####
 chage directories under the train.py and tempte.py 
 
